@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 data/flights_*.csv
 .DS_Store
+desktop.ini
