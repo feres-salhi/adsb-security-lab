@@ -1,3 +1,4 @@
+"""Fire hand-crafted spoofing attacks (teleport, impossible speed, ghost jump) at the trained detector and report which are caught."""
 import joblib
 from pathlib import Path
 

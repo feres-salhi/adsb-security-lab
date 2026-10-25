@@ -1,3 +1,4 @@
+"""Turn per-aircraft tracks into movement features: ground speed (km/h), climb rate (ft/s) and step distance (km)."""
 import json
 import csv
 import math

@@ -1,3 +1,4 @@
+"""Draw a flight path and colour each segment by the detector's verdict: green = normal, red = flagged."""
 import json
 import math
 from pathlib import Path

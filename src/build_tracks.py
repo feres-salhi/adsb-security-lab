@@ -1,3 +1,4 @@
+"""Group raw decoded ADS-B messages into per-aircraft tracks, ordered by time."""
 import csv
 import json
 from pathlib import Path

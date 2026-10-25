@@ -1,3 +1,4 @@
+"""Plot a real flight against a spoofed (teleporting) copy."""
 import json
 from pathlib import Path
 import matplotlib

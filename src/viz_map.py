@@ -1,3 +1,4 @@
+"""Render real vs. spoofed flight paths on an interactive folium map."""
 import json
 from pathlib import Path
 import folium

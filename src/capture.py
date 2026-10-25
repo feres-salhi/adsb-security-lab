@@ -1,3 +1,4 @@
+"""Tap live decoded ADS-B data from dump1090 (SBS stream on port 30003) and log it to disk."""
 import socket
 import time
 from datetime import datetime

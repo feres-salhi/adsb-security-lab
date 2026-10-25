@@ -1,3 +1,4 @@
+"""Ramp up progressively subtler spoofs to find where the detector starts to miss them."""
 import random
 from pathlib import Path
 import joblib

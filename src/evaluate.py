@@ -1,3 +1,4 @@
+"""Measure detection rate, false-alarm rate and precision on a held-out test set."""
 import csv
 import random
 from pathlib import Path

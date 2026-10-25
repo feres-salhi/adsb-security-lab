@@ -1,3 +1,4 @@
+"""Summarise a capture: message counts, number of aircraft and basic movement stats."""
 import csv
 from pathlib import Path
 
